@@ -10,4 +10,8 @@ A YOLOv8 model deployed for the purpose of classifying 10 different everyday off
 
 ...To be completed
 
+## Training Dataset
+Below is the link to the dataset files used to train this model, both in their raw and refined form:
+
+  [Training Dataset](https://livemdxac-my.sharepoint.com/:f:/g/personal/sa3603_live_mdx_ac_uk/EqMs0e9fIT1BntlVNcTqzEIBLch9zQ4jGo6mjD849Z2Ecw?e=ZRyMBV)
 
