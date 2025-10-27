@@ -4,7 +4,8 @@ A YOLOv8 model deployed for the purpose of classifying 10 different everyday off
 
 ## Install Instructions
 
-...To be completed
+### Required Packages
+Ultralytics
 
 ## Model in Action
 
