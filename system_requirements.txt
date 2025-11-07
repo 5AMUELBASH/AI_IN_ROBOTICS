@@ -1,0 +1,11 @@
+ultralytics==8.1.0
+opencv-python==4.10.0.84
+pillow==10.2.0
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+python-dateutil==2.9.0
+
+tk==0.1.0
+scipy==1.12.0
+PyYAML==6.0.1
